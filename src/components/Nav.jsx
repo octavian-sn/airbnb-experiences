@@ -3,8 +3,8 @@ import logo from '../assets/airbnb.png';
 
 export default function Nav() {
   return (
-    <div className="nav">
+    <nav>
       <img src={logo} alt="airbnb logo" />
-    </div>
+    </nav>
   );
 }
