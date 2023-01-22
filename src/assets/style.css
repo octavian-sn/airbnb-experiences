@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #d4ccc4;
+}
+
+#root {
+  margin: auto;
+  margin-top: 40px;
+  height: 853px;
+  width: 550px;
+  border-radius: 9px;
+  background-color: white;
+}
+
+.nav {
+  padding-left: 30px;
+  height: 70px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: 0 3px 7px 0px rgba(0, 0, 0, 0.103);
+}
